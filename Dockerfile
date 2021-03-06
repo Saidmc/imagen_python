@@ -1,3 +1,3 @@
-FROM ubuntu18.04
+FROM ubuntu:18.04
 CMD /bin/bash
 
